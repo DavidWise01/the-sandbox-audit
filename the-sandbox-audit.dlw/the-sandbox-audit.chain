@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 1066
+slug  : the-sandbox-audit
+seal  : dc5e2f36c97338108c934c0b1064f1bd1b4dd40079b0f5a8d1774deff40250f5
+prev  : ee180f42b61cbad43d2b70532c251c8a9699c77008df93e3a56352360268ed8a
+link  : 50972e70e5d8ab658bf0960ff018665b93157600a4f3613d6ad11f8294a81d9b
+head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
